@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV",VTV1 HD
+#EXTINF:-1,VTV1 HD
 https://freem3u.xyz/api/live/play.m3u8?vid=2
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV",VTV2 HD
+#EXTINF:-1,VTV2 HD
 https://vmttv.dpdns.org/tv360/?id=vtv2
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV",VTV3 HD
+#EXTINF:-1,VTV3 HD
 https://vmttv.dpdns.org/tv360/?id=vtv3
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV",VTV4 HD
+#EXTINF:-1,VTV4 HD
 https://vmttv.dpdns.org/tv360/?id=vtv4
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV",VTV5 HD
+#EXTINF:-1,VTV5 HD
 https://freem3u.xyz/api/live/play.m3u8?vid=110
-#EXTINF:-1 tvg-id="vtv5tnb" group-title="VTV",VTV5 Tây Nam Bộ HD
+#EXTINF:-1,VTV5 Tây Nam Bộ HD
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
-#EXTINF:-1 tvg-id="vtv5tn" group-title="VTV",VTV5 Tây Nguyên HD
+#EXTINF:-1,VTV5 Tây Nguyên HD
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV",VTV6 HD
+#EXTINF:-1,VTV6 HD
 https://vmttv.dpdns.org/tv360/?id=vtv6
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV",VTV7 HD
+#EXTINF:-1,VTV7 HD
 https://vmttv.dpdns.org/tv360/?id=vtv7
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV",VTV8 HD
+#EXTINF:-1,VTV8 HD
 https://vmttv.dpdns.org/tv360/?id=vtv8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV",VTV9 HD
+#EXTINF:-1,VTV9 HD
 https://vmttv.dpdns.org/tv360/?id=vtv9
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV",VTV10 HD
+#EXTINF:-1,VTV10 HD
 https://vmttv.dpdns.org/tv360/?id=vtv10
-#EXTINF:-1 tvg-id="qttv" group-title="Địa phương",QTTV - Quảng Trị
+#EXTINF:-1,QTTV - Quảng Trị
 https://freem3u.xyz/api/live/play.m3u8?vid=83
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV",HTV2 - Vie Channel
+#EXTINF:-1,HTV2 - Vie Channel
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
-#EXTINF:-1 tvg-id="htvthethao" group-title="HTV",HTV Thể Thao HD
+#EXTINF:-1,HTV Thể Thao HD
 https://vmttv.dpdns.org/tv360/?id=htv-the-thao
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC",HTVC Phim HD
+#EXTINF:-1,HTVC Phim HD
 https://freem3u.xyz/api/live/play.m3u8?vid=15
-#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu",ANTV HD
+#EXTINF:-1,ANTV HD
 https://freem3u.xyz/api/live/play.m3u8?vid=20
