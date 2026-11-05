@@ -1,35 +1,35 @@
 #EXTM3U
 #EXTINF:-1,VTV1 HD
-https://freem3u.xyz/api/live/play.m3u8?vid=2
+https://dethich.pw/vtv1/index.m3u8
 #EXTINF:-1,VTV2 HD
-https://vmttv.dpdns.org/tv360/?id=vtv2
+https://dethich.pw/vtv2/index.m3u8
 #EXTINF:-1,VTV3 HD
-https://vmttv.dpdns.org/tv360/?id=vtv3
+https://dethich.pw/vtv3/index.m3u8
 #EXTINF:-1,VTV4 HD
-https://vmttv.dpdns.org/tv360/?id=vtv4
+https://dethich.pw/vtv4/index.m3u8
 #EXTINF:-1,VTV5 HD
-https://freem3u.xyz/api/live/play.m3u8?vid=110
+https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1,VTV5 Tây Nam Bộ HD
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+https://dethich.pw/vtv5tnb/index.m3u8
 #EXTINF:-1,VTV5 Tây Nguyên HD
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+https://dethich.pw/vtv5tn/index.m3u8
 #EXTINF:-1,VTV6 HD
-https://vmttv.dpdns.org/tv360/?id=vtv6
+https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1,VTV7 HD
 https://vmttv.dpdns.org/tv360/?id=vtv7
 #EXTINF:-1,VTV8 HD
-https://vmttv.dpdns.org/tv360/?id=vtv8
+https://dethich.pw/vtv8/index.m3u8
 #EXTINF:-1,VTV9 HD
-https://vmttv.dpdns.org/tv360/?id=vtv9
+https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1,VTV10 HD
-https://vmttv.dpdns.org/tv360/?id=vtv10
-#EXTINF:-1,QTTV - Quảng Trị
-https://freem3u.xyz/api/live/play.m3u8?vid=83
+https://dethich.pw/vtv10/index.m3u8
+#EXTINF:-1,HTV Thể Thao HD
+https://dethich.pw/htvthethao/index.m3u8
 #EXTINF:-1,HTV2 - Vie Channel
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
-#EXTINF:-1,HTV Thể Thao HD
-https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 #EXTINF:-1,HTVC Phim HD
 https://freem3u.xyz/api/live/play.m3u8?vid=15
 #EXTINF:-1,ANTV HD
 https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1,QTTV - Quảng Trị
+https://freem3u.xyz/api/live/play.m3u8?vid=83
